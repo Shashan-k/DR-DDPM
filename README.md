@@ -30,10 +30,6 @@ Clone the repository:
 git clone https://github.com/Shashan-k/DR-DDPM.git
 ```
 
-Open the Jupyter Notebook:
-```bash
-jupyter notebook DDPM_APTOS.ipynb
-```
 
 Replace appropriate folder paths
 and
