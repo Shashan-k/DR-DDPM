@@ -27,8 +27,7 @@ pip install -r requirements.txt
 
 Clone the repository:
 ```bash
-<<replace the git clone here>>
-cd DDPM_APTOS_ocv-7
+git clone https://github.com/Shashan-k/DR-DDPM.git
 ```
 
 Open the Jupyter Notebook:
