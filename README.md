@@ -1,5 +1,6 @@
 # DR-DDPM
 
+
 ## Overview
 
 This project implements a Deep Denoising Diffusion Probabilistic Model (DDPM) for the APTOS dataset, focusing on image processing and classification tasks. The model aims to enhance image quality and improve classification accuracy for diabetic retinopathy detection.
@@ -83,6 +84,14 @@ The outputs generated during inference are interpreted directly as predictions, 
 
 ## Contributing
 Contributions are welcome! Please submit a pull request or open an issue for any enhancements or bug fixes.
+
+## Sample Outputs
+![image282_ca22ae65_370](https://github.com/user-attachments/assets/ae56a6aa-25f5-4aa4-959c-4d8f1e4be7a3)
+![image283_02fc5703_999](https://github.com/user-attachments/assets/122d21f1-aad9-462b-82f3-18e34582667a)
+![image283_66f86c81_193](https://github.com/user-attachments/assets/76869a12-098a-4d43-b34f-af8a32e6ec5b)
+![image283_bda696f1_295](https://github.com/user-attachments/assets/2fde5185-9b2c-4c89-9a6a-97f1a282aabf)
+
+
 
 ## Results
 The generated images can be downloaded from the below source.
