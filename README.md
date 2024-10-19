@@ -7,8 +7,8 @@ This project implements a Deep Denoising Diffusion Probabilistic Model (DDPM) fo
 
 ## Table of Contents
 
-- [Installation](#installation)
 - [Usage](#usage)
+- [Installation](#installation)
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
@@ -16,13 +16,6 @@ This project implements a Deep Denoising Diffusion Probabilistic Model (DDPM) fo
 - [Contributing](#contributing)
 - [Results](#results)
 
-## Installation
-
-To run this project, ensure you have the following dependencies installed:
-
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -35,6 +28,14 @@ git clone https://github.com/Shashan-k/DR-DDPM.git
 Replace appropriate folder paths
 and
 Follow the instructions in the notebook to preprocess the data, train the model, and generate new images on the APTOS dataset.
+
+## Installation
+
+To run this project, ensure you have the following dependencies installed:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Dataset
 The APTOS dataset consists of retinal images for diabetic retinopathy classification. You can download the dataset from APTOS 2019 Blindness Detection.
